@@ -1,0 +1,114 @@
+.parent {
+    background-image: url("https://media-www.sqspcdn.com/images/pages/homepage/aug-2023/hero/desktop/hero-2023-v2-desktop-2-2500w.webp");
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+
+}
+.NavBar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* background-color: black; */
+    color: white;
+    /* border: solid white; */
+    padding: 0;
+
+}
+.products{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 5px;
+    
+}
+.getstarted{
+        border: solid white;
+    
+        color: black ;
+        position: relative;
+        font-size: 15px;
+        text-align: center;
+        width: fit-content;
+        margin-top: 10px;
+        /* margin-left: 0px; */
+        background-color: white;
+        font-family: "Clarkson",Helvetica,sans-serif;
+        padding-top: 20px;
+        padding-right: 28px;
+        padding-bottom: 20px;
+        padding-left: 28px;
+}
+.getstarted:hover{
+    background-color: blanchedalmond;
+}
+.logoNav{
+    height: 55px;
+    margin-right: 30px;
+    /* float: left; */
+    /* border: solid pink; */
+}
+.to{
+    font-family: "Saol Display",Helvetica,serif;
+    font-style: italic;
+    font-weight: 300;
+    color: white;
+    /* border: solid green; */
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.Designed{
+    /* border: solid blue; */
+    color: white;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    font-style: normal;
+    font-size: 90px;
+    /* font-weight: 400; */
+    /* letter-spacing: -.02em; */
+    margin-top: 312px;
+    margin-left: 85px;
+    display:flex;
+    align-items: center;
+}
+.txt{
+    /* border: solid blue; */
+    color: #fff;
+    opacity: .7;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    font-style: normal;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: -.01em;
+    line-height: 1.2em;
+    margin-left: 300px;
+    margin-top:  -60px;
+
+}
+
+.gttxt{
+    border: solid white;
+
+    color: black ;
+    position: relative;
+    font-size: 16px;
+    text-align: center;
+    width: fit-content;
+    margin-top: 24px;
+    margin-left: 85px ;
+    background-color: white;
+    font-family: "Clarkson",Helvetica,sans-serif;
+    padding-top: 24px;
+    padding-right: 32px;
+    padding-bottom: 24px;
+    padding-left: 32px;
+}
+.gttxt:hover{
+    border: solid white;
+    color: white;
+    background-color: black;
+    font-family: "Clarkson",Helvetica,sans-serif;
+}
